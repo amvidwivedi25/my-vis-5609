@@ -21,6 +21,7 @@
 <img
     width="200px"
     src="https://i.pinimg.com/736x/b7/18/b7/b718b792b6266d4b8ab25dfc630908d3.jpg"
+    alt="Fav image"
 />
 <div>
     You can click up to
