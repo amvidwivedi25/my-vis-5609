@@ -1,4 +1,3 @@
-//I have used my one free 24hour extension for this assingment
 
 <script lang="ts">
   import * as d3 from "d3";
